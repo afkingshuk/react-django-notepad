@@ -4,3 +4,5 @@
 ###### Deployed at Heroku as Notepotro [https://notepotro.herokuapp.com/] 
 ###### Major Limitation: 
 - no login or auth. 
+
+Deployement tutorial: https://www.codechit.com/django-github-auto-deployment-to-heroku/
